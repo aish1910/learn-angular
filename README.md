@@ -39,4 +39,4 @@
 
 * Interpolation {{ }} lets you render the property value as text; property binding [ ] lets you use the property value in a template expression.
 
-# App is up and ready. Can be accesssed at - https://angular-tb2jqq.stackblitz.io/
+* App is up and ready. Can be accesssed at - https://angular-tb2jqq.stackblitz.io/
