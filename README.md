@@ -20,9 +20,7 @@
 # Interpolation
 
 * To display the names of the products, use the interpolation syntax {{ }}. Interpolation renders a property's value as text.
-
-<pre>
-
+```
 <h2>Products</h2>
 
 <div *ngFor="let product of products">
@@ -32,8 +30,6 @@
   </h3>
 
 </div>
-
-</pre>
 
 # Binding
 * Each product name will be a link to product details. Add the anchor now, and set the anchor's title to be the product's name by using the property binding [ ] syntax, as shown below:
