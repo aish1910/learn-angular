@@ -1,4 +1,4 @@
-# angular-tb2jqq
+# Learn Angular
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-tb2jqq)
 
