@@ -30,6 +30,7 @@
   </h3>
 
 </div>
+```
 
 # Binding
 * Each product name will be a link to product details. Add the anchor now, and set the anchor's title to be the product's name by using the property binding [ ] syntax, as shown below:
