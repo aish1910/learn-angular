@@ -21,7 +21,7 @@
 
 * To display the names of the products, use the interpolation syntax {{ }}. Interpolation renders a property's value as text.
 
-<code>
+<pre>
 
 <h2>Products</h2>
 
@@ -33,7 +33,7 @@
 
 </div>
 
-</code>
+</pre>
 
 # Binding
 * Each product name will be a link to product details. Add the anchor now, and set the anchor's title to be the product's name by using the property binding [ ] syntax, as shown below:
