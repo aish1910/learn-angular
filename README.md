@@ -45,6 +45,7 @@
 </div>
 ```
 
+# Interpolation
 * Interpolation {{ }} lets you render the property value as text; property binding [ ] lets you use the property value in a template expression.
 
 # Event binding
@@ -56,7 +57,7 @@ Bind the button's click event to the share() event that we defined for you (in p
 </button>
 ```
 
-# Comnponents
+# Components
 Components define areas of responsibility in your UI that let you reuse these sets of UI functionality.
 A component is comprised of three things:
 
@@ -68,5 +69,6 @@ Our product app has 3 components defined:
 * app-root is the application shell. This is the first component to load, and the parent of all other components. You can think of it as the base page.
 * app-top-bar (blue background) is the store name and checkout button.
 * app-product-list (purple box) is the product list that you modified in the previous section
+
 
 * App is up and ready. Can be accesssed at - https://angular-tb2jqq.stackblitz.io/
